@@ -1,10 +1,8 @@
-# Academic Record
-
-## Teaching:
-### Current:
+# Teaching:
+## Current:
 * Big Data and Data Science Technologies
 
-### Past: 
+## Past: 
 * Big Data and Data Science Technologies
   * Tought Since 2019
   * 1 Semester of the Master in Software Engineering at SDU
@@ -20,8 +18,8 @@
   * Proven high student satisfaction scores
   * First three years - about 150 students
 
-## Students:
-### Present:
+# Students:
+## Present:
 * Nicklas Marc Pedersen, M.Sc., Spring 2024
 * Anders Høgh Sornboe, M.Sc., Spring 2024
 * Marcus Adam Sørensen, M.Sc., Spring 2024
@@ -32,7 +30,7 @@
 * Kasper Delaxson Sebastiampillai, M.Sc., Spring 2024
 * Ásbjörn Skarphéðinsson, M.Sc., Spring 2024
 
-### Past:
+## Past:
 * Juan Francisco Marín Vega, PhD, Partial Industrial Supervision, Spring 2023, Innovationsfonden, [[Thesis](https://findresearcher.sdu.dk/ws/portalfiles/portal/234156922/final.pdf)]
 * Frederik Alexander Hounsvad, M.Sc., Industrial Supervision, Spring 2023
 * Peter Andreas Brændgaard, M.Sc., Industrial Supervision, Spring 2023
@@ -60,7 +58,7 @@
 * Emil Stubbe Kolvig-Raun, M.Sc., Fall 2020
 * Rasmus Bang Poulsen, B.Sc., Fall 2019
 
-### PhD Student Specifics
+## PhD Student Specifics
 * Jens Hjort Schwee (SDU)
   * Related Projects:
     * IoTStyring ( [https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring) )
@@ -74,7 +72,7 @@
   * Type: Industrial PhD
   * My Role: Industrial Supervisor
 
-## Project Participations:
+# Project Participations:
 * [Automatic Image Enhancement for Real Estate (AIERE)](https://portal.findresearcher.sdu.dk/en/publications/machine-learning-based-solutions-for-automatic-image-enhancement-)
   * Funded By: Innovationsfonden
 * [FlexReStore (12413)](https://www.ft.dk/samling/20151/almdel/efk/bilag/136/1587301.pdf)
@@ -90,7 +88,7 @@
 * [IEA EBC - Annex 79](https://annex79.iea-ebc.org/)
   * Participation indirect through PhD Supervision
 
-## Project Applications:
+# Project Applications:
 * Scalable Teaching
   * Year: 2020
   * Funded By: SDU
