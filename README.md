@@ -31,7 +31,7 @@
 * Ásbjörn Skarphéðinsson, M.Sc., Spring 2024
 
 ## Past:
-* Juan Francisco Marín Vega, PhD, Partial Industrial Supervision, Spring 2023, Innovationsfonden, [[Thesis](https://findresearcher.sdu.dk/ws/portalfiles/portal/234156922/final.pdf)]
+* Juan Francisco Marín Vega, PhD, Industrial Supervision, Spring 2023, Innovationsfonden, [[Thesis](https://findresearcher.sdu.dk/ws/portalfiles/portal/234156922/final.pdf)]
 * Frederik Alexander Hounsvad, M.Sc., Industrial Supervision, Spring 2023
 * Peter Andreas Brændgaard, M.Sc., Industrial Supervision, Spring 2023
 * Oliver Lind Nordestgaard, M.Sc., Spring 2023
