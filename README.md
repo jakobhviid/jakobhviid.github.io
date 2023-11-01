@@ -1,3 +1,6 @@
+# Research Interests
+[TBU]
+
 # Publications
 For an up-to-date list please see [Google Scholar](https://scholar.google.dk/citations?user=uvLuRRQAAAAJ), or [Find Researcher at SDU](https://portal.findresearcher.sdu.dk/da/persons/jah). At the date of writing, these are the current publication list:
 * Hviid, J., Johansen, A., Sangogboye, F. C., & Kjærgaard, M. B. (2022). **OPM: An Ontology-Based Package Manager for Building Operating Systems**. I 11th International Conference on the Internet of Things, IoT 2021 - Conference Proceedings (s. 118-125). Association for Computing Machinery. https://doi.org/10.1145/3494322.3494338
@@ -119,3 +122,4 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Funded By: SDU
   * Type: Internal
   * Status: Approved
+* [TBU]
