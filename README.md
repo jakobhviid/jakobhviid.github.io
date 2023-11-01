@@ -83,7 +83,7 @@
   * Funded By: European Regional Development Fund North sea Region (EU Project)
 * [Coordicy](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/coordicy)
   * Funded By: Innovationsfonden
-* [IoTStyring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring) )
+* [IoTStyring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring)
   * Regional Udvikling Vækstforum and The European Regional Development Fund (EU)
 * [IEA EBC - Annex 79](https://annex79.iea-ebc.org/)
   * Participation indirect through PhD Supervision
