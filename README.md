@@ -95,9 +95,9 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * Emil Nielsen, M.Sc., Spring 2021
 * Nikolaj Wolder Steenberg, M.Sc., Spring 2021
 * Morten Abrahamsen Olesen, M.Sc., Spring 2021
-* Mathias [update last name], M.Sc., Industrial Supervision, Spring 2021
-* Daniel [update last name], M.Sc., Industrial Supervision, Spring 2021
-* Morten [update last name], M.Sc., Industrial Supervision, Spring 2021
+* Mathias Brix, M.Sc., Industrial Supervision, Spring 2021
+* Daniel Szenczi, M.Sc., Industrial Supervision, Spring 2021
+* Morten Asmus Breum Nørgård, M.Sc., Industrial Supervision, Spring 2021
 * Emil Stubbe Kolvig-Raun, M.Sc., Fall 2020
 * Rasmus Bang Poulsen, B.Sc., Fall 2019
 
