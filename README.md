@@ -95,8 +95,8 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 ## PhD Student Specifics
 * Jens Hjort Schwee (SDU)
   * Related Projects:
-    * IoTStyring ( [https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring) )
-    * IEA EBC - Annex 79 ( [https://annex79.iea-ebc.org/](https://annex79.iea-ebc.org/) )
+    * [IoTStyring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring) 
+    * [IEA EBC - Annex 79](https://annex79.iea-ebc.org/)
   * Funded By: Innovationsfonden
   * Type: Academic PhD
   * My Role: Academic Co-Supervisor
