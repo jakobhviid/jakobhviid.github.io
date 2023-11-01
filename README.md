@@ -1,17 +1,14 @@
 ![Profile image of Jakob Hviid, PhD](images/profileimage.jpg)
 
 # About
-
 Jakob Hviid is currently a Senior Architect at Energinet in the Digitalization department. Jakob also works as an Assistant Professor at the University of Southern Denmark, where he teaches the Data Management and Big Data and Data Science Technologies courses and supervises master's and bachelor's projects. Jakob received his PhD in Software Engineering in 2019, working on applying IoT, Software, and Deployment strategies to further the adaptation of Demand Response technologies to support the transition to green energy. Currently, his research focuses on IT solutions for the green energy transition, scalable AI solutions, IoT and Data related middleware, Big Data, and Deployment strategies, thereby employing his previous experience from the industry.
 
 For current status, please see [LinkedIn](https://www.linkedin.com/in/jakobhviid/).
 
 # Research Interests
-
 [TBU]
 
 # Publications
-
 For an up-to-date list please see [Google Scholar](https://scholar.google.dk/citations?user=uvLuRRQAAAAJ), or [Find Researcher at SDU](https://portal.findresearcher.sdu.dk/da/persons/jah). At the date of writing, these are the current publication list:
 
 * **Hviid, J.**, Johansen, A., Sangogboye, F. C., & Kjærgaard, M. B. (2022). **OPM: An Ontology-Based Package Manager for Building Operating Systems**. I 11th International Conference on the Internet of Things, IoT 2021 - Conference Proceedings (s. 118-125). Association for Computing Machinery. https://doi.org/10.1145/3494322.3494338
@@ -29,18 +26,15 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * Mehanovic, A., Rømer, E. S., **Hviid, J.**, & Kjærgaard, M. B. (2016). **Clustering and Visualisation of Electricity Data to identify Demand Response Opportunities**: Poster Abstract. I Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (s. 233-234). Association for Computing Machinery. https://doi.org/10.1145/2993422.2996403
 
 # Teaching:
-
 * About **875 students** taught and counting (last updated 2023)
 * Big Data and Data Science Technologies (formerly Data Science) was built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS, but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in English. The course excels in proven high student satisfaction scores topping at **3,95 of 4**.
 * Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in Danish. The course excels in proven high student satisfaction scores topping at **3,72 of 4**.
 
 ## Current:
-
 * [Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=101450&lang=en), Fall 2023
   * 5 ECTS, Master 1. semester, 79 students, Score TBD
 
 ## Past: 
-
 * [SI2-DM - Data Management](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=112386&lang=en), Spring 2023
   * 5 ECTS, Bachelor 2. Semester, 128 students, [Score 3,35/4](https://eval.sdu.dk/public/tek?semester=f23)
 * [SM-BD-DST - Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=81974&lang=en), Fall 2022
@@ -59,9 +53,7 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * 10 ECTS, Master 1. Semester, ~50 students, [Score 2,95/4](https://eval.sdu.dk/public/tek?semester=e20)
 
 # Students:
-
 ## Present:
-
 * Nicklas Marc Pedersen, M.Sc., Spring 2024
 * Anders Høgh Sornboe, M.Sc., Spring 2024
 * Marcus Adam Sørensen, M.Sc., Spring 2024
@@ -73,7 +65,6 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * Ásbjörn Skarphéðinsson, M.Sc., Spring 2024
 
 ## Past:
-
 * Juan Francisco Marín Vega, PhD, Industrial Supervision, Spring 2023, Innovationsfonden, [[Thesis](https://findresearcher.sdu.dk/ws/portalfiles/portal/234156922/final.pdf)]
 * Frederik Alexander Hounsvad, M.Sc., Industrial Supervision, Spring 2023
 * Peter Andreas Brændgaard, M.Sc., Industrial Supervision, Spring 2023
@@ -102,7 +93,6 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * Rasmus Bang Poulsen, B.Sc., Fall 2019
 
 ## PhD Student Specifics
-
 * Jens Hjort Schwee (SDU)
   * Related Projects:
     * IoTStyring ( [https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring) )
@@ -117,7 +107,6 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * My Role: Industrial Supervisor
 
 # Project Participations:
-
 * [Automatic Image Enhancement for Real Estate (AIERE)](https://portal.findresearcher.sdu.dk/en/publications/machine-learning-based-solutions-for-automatic-image-enhancement-)
   * Funded By: Innovationsfonden
 * [FlexReStore (12413)](https://www.ft.dk/samling/20151/almdel/efk/bilag/136/1587301.pdf)
@@ -134,7 +123,6 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Participation indirect through PhD Supervision
 
 # Project Applications:
-
 * Scalable Teaching
   * Year: 2020
   * Funded By: SDU
@@ -143,7 +131,6 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * [TBU]
 
 # Contact Information:
-
 - University of Southern Denmark:
   - Email: jah@mmmi.sdu.dk
   - Phone: +45 20668262
