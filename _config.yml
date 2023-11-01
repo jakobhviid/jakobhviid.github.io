@@ -1,7 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
-
 title: Jakob Hviid, PhD's Academic Records Page
 description: A page to document the academic records associated to Jakob Hviid.
-show_downloads: false
