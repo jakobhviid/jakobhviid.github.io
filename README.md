@@ -1,3 +1,5 @@
+![Profile image of Jakob Hviid, PhD](images/profileimage.jpg)
+
 # About
 Jakob Hviid is currently a Senior Architect at Energinet in the Digitalization department. Jakob also works as an Assistant Professor at the University of Southern Denmark, where he teaches the Data Management and Big Data and Data Science Technologies courses and supervises master's and bachelor's projects. Jakob received his PhD in Software Engineering in 2019, working on applying IoT, Software, and Deployment strategies to further the adaptation of Demand Response technologies to support the transition to green energy. Currently, his research focuses on IT solutions for the green energy transition, scalable AI solutions, IoT and Data related middleware, Big Data, and Deployment strategies, thereby employing his previous experience from the industry.
 
