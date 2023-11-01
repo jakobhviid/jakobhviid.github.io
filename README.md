@@ -17,11 +17,13 @@
   * First three years - about 150 students
 
 ## Project Supervision:
+
 ### Bachelor Students
 * 2019E - Rasmus Bang Poulsen
 * 2021F - Oliver Lind Nordestgaard
 * 2021F - Oliver Marco van Komen
 * 2021F - Nicolai Christian Barnekov Gram
+
 ### Masters Students
 * 2020E - Emil Stubbe Kolvig-Raun
 * 2021F - Frederik Ralskov Holm
@@ -36,6 +38,7 @@
 * 2022F - Thomas Finch Rasmussen
 * 2023F - Oliver Lind Nordestgaard
 * 2023F - Nicolai Emil Damm
+
 ### Supervision from the Industry side
 * 2021F - Esoft - Mathias, Daniel og Morten
 * 2022F - Mads Due Kristensen
