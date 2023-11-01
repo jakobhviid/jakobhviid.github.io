@@ -26,6 +26,8 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 
 # Teaching:
 * About 875 students taught and counting (last updated 2023)
+* Big Data and Data Science Technologies (formerly Data Science) was built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS, but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in English. The course excels in proven high student satisfaction scores topping at 3,95 of 4.
+* Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in Danish. The course excels in proven high student satisfaction scores topping at 3,72 of 4.
 
 ## Current:
 * [Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=101450&lang=en), Fall 2023
@@ -48,10 +50,6 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * 10 ECTS, Bachelor 2. Semester, ~160 students, [Score 3,22/4](https://eval.sdu.dk/public/tek?semester=f20)
 * [SM-DSC - Data Science](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=54451&lang=en), Fall 2019
   * 10 ECTS, Master 1. Semester, ~50 students, [Score 2,95/4](https://eval.sdu.dk/public/tek?semester=e20)
-
-## Notes on Teaching
-* Big Data and Data Science Technologies (formerly Data Science) was built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS, but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in English. The course excels in proven high student satisfaction scores.
-* Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in Danish. The course excels in proven high student satisfaction scores.
 
 # Students:
 ## Present:
@@ -143,3 +141,4 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 - Private:
   - Email: jakob@hviid.phd
   - Phone: +45 20668262
+
