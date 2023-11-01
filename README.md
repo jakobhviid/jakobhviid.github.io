@@ -1,22 +1,29 @@
 # Teaching:
 ## Current:
-* Big Data and Data Science Technologies
+* [Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=101450&lang=en), Fall 2023
+  * 5 ECTS, Master 1. semester, ~60 students, Score TBD
 
 ## Past: 
-* Big Data and Data Science Technologies
-  * Tought Since 2019
-  * 1 Semester of the Master in Software Engineering at SDU
-  * Build Course from scratch with Fisayo Sangogboye
-  * Class size normally around 50 students +/- 10.
-  * Proven high student satisfaction scores
-  * First three years - about 420 students
-* Data Management
-  * Tought Since 2020
-  * 2. Semester of the Bachelor in Software Engineering at SDU
-  * Build Course from scratch alone.
-  * Class size always above 100 (largest about 190)
-  * Proven high student satisfaction scores
-  * First three years - about 150 students
+* [SI2-DM - Data Management](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=112386&lang=en), Spring 2023
+  * 5 ECTS, Bachelor 2. Semester, ~?? students, [Score 3,35/4](https://eval.sdu.dk/public/tek?semester=f23)
+* [SM-BD-DST - Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=81974&lang=en), Fall 2022
+  * 5 ECTS, Master 1. Semester, ~?? students, [Score 3,95/4](https://eval.sdu.dk/public/tek?semester=e22)
+* [SI2-DM - Data Management](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=111419&lang=en), Spring 2022
+  * 5 ECTS, Bachelor 2. Semester, ~?? students, [Score 3,78/4](https://eval.sdu.dk/public/tek?semester=f22)
+* [SM-BD-DST - Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=68439&lang=en), Fall 2021
+  * 10 ECTS, Master 1. Semester, ~?? students, [Score 3,72/4](https://eval.sdu.dk/public/tek?semester=e21)
+* [SI2-VOPDM - Programming and Data Management](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=95744&lang=en), Spring 2021
+  * 10 ECTS, Bachelor 2. Semester, ~?? students, [Score 3,41/4](https://eval.sdu.dk/public/tek?semester=f21)
+* [SM-BD-DST - Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=64318&lang=en), Fall 2020
+  * 10 ECTS, Master 1. Semester, ~?? students, [Score 3,55/4](https://eval.sdu.dk/public/tek?semester=e20)
+* [SI2-VOPDM - Programming and Data Management](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=63502&lang=en), Spring 2020
+  * 10 ECTS, Bachelor 2. Semester, ~?? students, [Score 3,22/4](https://eval.sdu.dk/public/tek?semester=f20)
+* [SM-DSC - Data Science](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=54451&lang=en), Fall 2019
+  * 10 ECTS, Master 1. Semester, ~?? students, [Score 2,95/4](https://eval.sdu.dk/public/tek?semester=e20)
+
+## Notes on Teaching
+* Big Data and Data Science Technologies (formerly Data Science) was built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS, but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in English. The course excels in proven high student satisfaction scores.
+* Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in Danish. The course excels in proven high student satisfaction scores.
 
 # Students:
 ## Present:
