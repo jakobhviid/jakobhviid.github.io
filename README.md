@@ -25,9 +25,9 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * Mehanovic, A., Rømer, E. S., **Hviid, J.**, & Kjærgaard, M. B. (2016). **Clustering and Visualisation of Electricity Data to identify Demand Response Opportunities**: Poster Abstract. I Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (s. 233-234). Association for Computing Machinery. https://doi.org/10.1145/2993422.2996403
 
 # Teaching:
-* About 875 students taught and counting (last updated 2023)
-* Big Data and Data Science Technologies (formerly Data Science) was built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS, but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in English. The course excels in proven high student satisfaction scores topping at 3,95 of 4.
-* Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in Danish. The course excels in proven high student satisfaction scores topping at 3,72 of 4.
+* About **875 students** taught and counting (last updated 2023)
+* Big Data and Data Science Technologies (formerly Data Science) was built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS, but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in English. The course excels in proven high student satisfaction scores topping at **3,95 of 4**.
+* Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and a project. The course is taught in Danish. The course excels in proven high student satisfaction scores topping at **3,72 of 4**.
 
 ## Current:
 * [Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=101450&lang=en), Fall 2023
