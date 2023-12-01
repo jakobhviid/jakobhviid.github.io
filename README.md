@@ -25,6 +25,9 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * **Hviid, J.**, & Kjærgaard, M. B. (2018). **The Retail Store as a Smart Grid Ready Building: Current Practice and Future Potentials**. I Proceeding of the 2018 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT) (s. 1-5). IEEE Press. https://doi.org/10.1109/ISGT.2018.8403354
 * Mehanovic, A., Rømer, E. S., **Hviid, J.**, & Kjærgaard, M. B. (2016). **Clustering and Visualisation of Electricity Data to identify Demand Response Opportunities**: Poster Abstract. I Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (s. 233-234). Association for Computing Machinery. https://doi.org/10.1145/2993422.2996403
 
+# Other Publications
+* **Hviid, J. et al.** (2023), **Driving Towards Grid Balance**. Energinet Website Publication. https://energinet.dk/media/jkwn4ekx/driving-towards-grid-balance.pdf  
+
 # Teaching:
 * About **875 students** taught and counting (last updated 2023)
 * Big Data and Data Science Technologies (formerly Data Science) was built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS, but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project, which is defended orally. The course is taught in English. The course excels in proven high student satisfaction scores topping at **3,95 of 4**.
