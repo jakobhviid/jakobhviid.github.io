@@ -8,7 +8,7 @@ For current status, please see [LinkedIn](https://www.linkedin.com/in/jakobhviid
 # Research Interests
 [TBU]
 
-# Publications
+# Research Publications
 For an up-to-date list please see [Google Scholar](https://scholar.google.dk/citations?user=uvLuRRQAAAAJ), or [Find Researcher at SDU](https://portal.findresearcher.sdu.dk/da/persons/jah). At the date of writing, these are the current publication list:
 
 * **Hviid, J.**, Johansen, A., Sangogboye, F. C., & Kjærgaard, M. B. (2022). **OPM: An Ontology-Based Package Manager for Building Operating Systems**. I 11th International Conference on the Internet of Things, IoT 2021 - Conference Proceedings (s. 118-125). Association for Computing Machinery. https://doi.org/10.1145/3494322.3494338
@@ -25,7 +25,10 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * **Hviid, J.**, & Kjærgaard, M. B. (2018). **The Retail Store as a Smart Grid Ready Building: Current Practice and Future Potentials**. I Proceeding of the 2018 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT) (s. 1-5). IEEE Press. https://doi.org/10.1109/ISGT.2018.8403354
 * Mehanovic, A., Rømer, E. S., **Hviid, J.**, & Kjærgaard, M. B. (2016). **Clustering and Visualisation of Electricity Data to identify Demand Response Opportunities**: Poster Abstract. I Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (s. 233-234). Association for Computing Machinery. https://doi.org/10.1145/2993422.2996403
 
-# Other Publications
+# Book Publications
+* **Hviid, J.** (2019). **A Software Approach to Mitigating Barriers for Smart Grid Integration in the Retail Sector**. [PhD Thesis]. Independently Published. ISBN-13: 979-8870803661. https://www.amazon.de/-/en/Jakob-Hviid-PhD/dp/B0CPMNT9W1/ 
+
+# Whitepaper Publications
 * **Hviid, J. et al.** (2023), **Driving Towards Grid Balance**. Energinet Website Publication. https://energinet.dk/media/jkwn4ekx/driving-towards-grid-balance.pdf  
 
 # Teaching:
@@ -124,14 +127,37 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Regional Udvikling Vækstforum and The European Regional Development Fund (EU)
 * [IEA EBC - Annex 79](https://annex79.iea-ebc.org/)
   * Participation indirect through PhD Supervision
-
-# Project Applications:
+  
+# Project Application Participation:
+* Driving Towards Grid Balance
+  * Year: 2024
+  * Submitted to: [TBU]
+  * Status: Being Written
+* EVagent
+  * Year: 2023
+  * Submitted to: ElForsk
+  * Status: Pending
+* The next-generation predictive digital twins for offshore wind energy (Twin4Wind)
+  * Year: 2023
+  * Submitted to: EU Horizon Call (HORIZON-CL5-2023-D3-02)
+  * Status: Pending
+* ConVA: Confidentiality and Confidence in Visual Analytics of Time-series Data
+  * Year: 2023
+  * Submitted to: DFF (Den Frie Forskningsfond)
+  * Status: Pending
+* BALANCER – Intelligent Energy-Aware Resource Balancing
+  * Year: 2023
+  * Submitted to: EU Horizon Call (HORIZON-CL4-2023-DATA-01-04)
+  * Status: Rejected
+* Digital Energy Future (SecDef)
+  * Year: 2022
+  * Submitted to: EU Horizon Call (HORIZON-MSCA-DN-2022)
+  * Status: Rejected
 * Scalable Teaching
   * Year: 2020
   * Funded By: SDU
-  * Type: Internal
   * Status: Approved
-* [TBU]
+
 
 # Contact Information:
 - University of Southern Denmark:
