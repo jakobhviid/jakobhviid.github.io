@@ -133,18 +133,18 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Year: 2024
   * Submitted to: [TBU]
   * Status: Being Written
-* EVagent
-  * Year: 2023
-  * Submitted to: ElForsk
-  * Status: Pending
-* The next-generation predictive digital twins for offshore wind energy (Twin4Wind)
-  * Year: 2023
-  * Submitted to: EU Horizon Call (HORIZON-CL5-2023-D3-02)
-  * Status: Pending
 * ConVA: Confidentiality and Confidence in Visual Analytics of Time-series Data
   * Year: 2023
   * Submitted to: DFF (Den Frie Forskningsfond)
   * Status: Pending
+* EVagent
+  * Year: 2023
+  * Submitted to: ElForsk
+  * Status: Rejected
+* The next-generation predictive digital twins for offshore wind energy (Twin4Wind)
+  * Year: 2023
+  * Submitted to: EU Horizon Call (HORIZON-CL5-2023-D3-02)
+  * Status: Rejected
 * BALANCER – Intelligent Energy-Aware Resource Balancing
   * Year: 2023
   * Submitted to: EU Horizon Call (HORIZON-CL4-2023-DATA-01-04)
