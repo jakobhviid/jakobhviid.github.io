@@ -41,7 +41,7 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * 5 ECTS, Bachelor 2. Semester, TBD students, [Score TBD/4](https://eval.sdu.dk/public/tek?semester=f24)
 
 ## Past: 
-* [Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=101450&lang=en), Fall 2023
+* [SM-BD-DST - Big Data and Data Science Technologies](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=101450&lang=en), Fall 2023
   * 5 ECTS, Master 1. semester, 79 students, [Score 3,7/4](https://eval.sdu.dk/public/tek?semester=e23)
 * [SI2-DM - Data Management](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=112386&lang=en), Spring 2023
   * 5 ECTS, Bachelor 2. Semester, 128 students, [Score 3,35/4](https://eval.sdu.dk/public/tek?semester=f23)
