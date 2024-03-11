@@ -161,11 +161,11 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Status: Approved
 
 # Public Speaking since 2024 and forward:
-* Scaling Data Science and Big Data Technologies
+<!-- * Scaling Data Science and Big Data Technologies
   * Location: Arhus University (AU)
   * Date: 2024-03-14
   * Occasion: Guest Lecture for Academics, Students, and Industry about Big Data and Data Science Technologies
-  * Keywords: Data Science, Big Data, Scalability, Data Management, Data Science Technologies, Data Science Education
+  * Keywords: Data Science, Big Data, Scalability, Data Management, Data Science Technologies, Data Science Education -->
 * The Data Center's Role in the Transition to Renewables
   * Location: Danish Technical University (DTU)
   * Date: 2024-02-20
