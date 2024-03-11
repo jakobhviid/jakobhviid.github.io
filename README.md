@@ -33,8 +33,8 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 
 # Teaching:
 * About **1056 students** taught and counting (last updated 2023)
-* Big Data and Data Science Technologies (formerly Data Science) were built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project, which is defended orally. The course is taught in English. The course excels in proven high student satisfaction scores topping at **3,95 of 4**.
-* Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and an oral exam. The course is taught in Danish. The course excels in proven high student satisfaction scores topping at **3,72 of 4**.
+* Big Data and Data Science Technologies (formerly Data Science) were built from scratch by Jakob Hviid and Fisayo Sangogboye in 2019. The course was originally 10 ECTS but was reduced to 5 ECTS in 2020. The course is a mix of lectures, exercises, and a project, which is defended orally. The course is taught in English. The course excels in proven high student satisfaction scores, topping at **3,95** of 4**.
+* Data Management was built from scratch by Jakob Hviid in 2020. The course is a mix of lectures, exercises, and an oral exam. The course is taught in Danish. The course excels in proven high student satisfaction scores, topping at **3,72** of 4**.
 
 ## Current:
 * [SI2-DM - Data Management](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=112386&lang=en), Spring 2024
