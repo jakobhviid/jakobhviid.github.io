@@ -128,12 +128,12 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * [IoTStyring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring)
   * Regional Udvikling Vækstforum and The European Regional Development Fund (EU)
 * [IEA EBC - Annex 79](https://annex79.iea-ebc.org/)
-  * Participation indirect through PhD Supervision
+  * Participation indirectly through PhD Supervision
   
 # Project Application Participation:
-* Driving Towards Grid Balance
+* DI4IoE
   * Year: 2024
-  * Submitted to: [TBU]
+  * Submitted to: EU Horizon Call (HORIZON-CL4-2024-DATA-01-03)
   * Status: Being Written
 * ConVA: Confidentiality and Confidence in Visual Analytics of Time-series Data
   * Year: 2023
