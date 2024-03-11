@@ -122,7 +122,7 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 * [Data Driven Experts](https://energiforskning.dk/en/node/15903)
   * Funded By: EUDP (64019-0576)
 * [Smartgreen](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/smartgreen)
-  * Funded By: European Regional Development Fund North sea Region (EU Project)
+  * Funded By: European Regional Development Fund North Sea Region (EU Project)
 * [Coordicy](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/coordicy)
   * Funded By: Innovationsfonden
 * [IoTStyring](https://www.sdu.dk/en/forskning/centreforenergyinformatics/research+projects/iot+styring)
