@@ -131,7 +131,7 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Participation indirectly through PhD Supervision
   
 # Project Application Participation:
-* DI4IoE
+* DI4IoE: Decentralized Intelligence for the Internet of Energy
   * Year: 2024
   * Submitted to: EU Horizon Call (HORIZON-CL4-2024-DATA-01-03)
   * Status: Being Written
