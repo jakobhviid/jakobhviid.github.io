@@ -169,16 +169,21 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Status: Approved
 
 # Public Speaking since 2024 and forward:
+* Ancillary Services and the Green Energy Transition
+  * Location: Comet Meetings Louise, Place Stéphanie 20, 1050 Brussels
+  * Date: 2024-04-09
+  * Occasion: Keynote for the European Energy Research Alliance's "Research Meets Policy Conference"
+  * Keywords: Renewable Energy, Green Energy Transition, Ancillary Services, Demand Response, Policy, Energy Research
 * Scaling Data Science and Big Data Technologies
   * Location: Arhus University (AU)
   * Date: 2024-03-14
   * Occasion: Guest Lecture for Academics, Students, and Industry about Big Data and Data Science Technologies
   * Keywords: Data Science, Big Data, Scalability, Data Management, Data Science Technologies, Data Science Education
 * The Data Center's Role in the Transition to Renewables
-  * Location: Danish Technical University (DTU)
+  * Location: Danish Technical University (DTU), Building 101, Anker Engelunds Vej 1, 2800 Kgs. Lyngby
   * Date: 2024-02-20
   * Occasion: End of Conference Keynote for the Data Cool Project
-  * Keywords: Renewable Energy, Data Centers, Green Energy Transition, Auxiliary Services, Demand Response, Data Center Cooling, Data Center Energy Management
+  * Keywords: Renewable Energy, Data Centers, Green Energy Transition, Ancillary Services, Demand Response, Data Center Cooling, Data Center Energy Management
 
 # Contact Information:
 - University of Southern Denmark:
