@@ -131,6 +131,14 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Participation indirectly through PhD Supervision
   
 # Project Application Participation:
+* Title TBA
+  * Year: 2024
+  * Submitted to: EU Horizon Call (DIGITAL-2024-CLOUD-AI-06-ENERSPACE)
+  * Status: Being Written
+* Build2Grid
+  * Year: 2024
+  * Submitted to: EU Horizon Call (HORIZON-CL5-2024-D4-01-02)
+  * Status: Being Written
 * DI4IoE: Decentralized Intelligence for the Internet of Energy
   * Year: 2024
   * Submitted to: EU Horizon Call (HORIZON-CL4-2024-DATA-01-03)
