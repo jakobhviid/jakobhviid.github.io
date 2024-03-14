@@ -169,7 +169,7 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Status: Approved
 
 # Public Speaking since 2024 and forward:
-* Ancillary Services and the Green Energy Transition
+* A future perspective on ancillary Services and the Green Energy Transition
   * Location: Comet Meetings Louise, Place Stéphanie 20, 1050 Brussels
   * Date: 2024-04-09
   * Occasion: Keynote for the European Energy Research Alliance's "Research Meets Policy Conference"
