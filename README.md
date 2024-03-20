@@ -59,6 +59,10 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * 10 ECTS, Bachelor 2. Semester, ~160 students, [Score 3,22/4](https://eval.sdu.dk/public/tek?semester=f20)
 * [SM-DSC - Data Science](https://odin.sdu.dk/sitecore/index.php?a=fagbesk&id=54451&lang=en), Fall 2019
   * 10 ECTS, Master 1. Semester, ~50 students, [Score 2,95/4](https://eval.sdu.dk/public/tek?semester=e20)
+* Project Supervision for Semester Projects, 2016-2019
+  * Bachelor 1. Semester, ~110 students
+* Instructor with some teaching responsibility, Objected Oriented Programming, 2016-2019
+  * Bachelor 1. Semester, ~350 students
 
 # Students:
 ## Present:
@@ -131,18 +135,18 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Participation indirectly through PhD Supervision
   
 # Project Application Participation:
-* Title TBA
+<!-- * Title TBA
   * Year: 2024
   * Submitted to: EU Horizon Call (DIGITAL-2024-CLOUD-AI-06-ENERSPACE)
-  * Status: Being Written
-* Build2Grid
+  * Status: Being Written -->
+<!-- * Build2Grid
   * Year: 2024
   * Submitted to: EU Horizon Call (HORIZON-CL5-2024-D4-01-02)
-  * Status: Being Written
+  * Status: Being Written -->
 * DI4IoE: Decentralized Intelligence for the Internet of Energy
   * Year: 2024
   * Submitted to: EU Horizon Call (HORIZON-CL4-2024-DATA-01-03)
-  * Status: Being Written
+  * Status: Pending
 * ConVA: Confidentiality and Confidence in Visual Analytics of Time-series Data
   * Year: 2023
   * Submitted to: DFF (Den Frie Forskningsfond)
@@ -169,16 +173,22 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
   * Status: Approved
 
 # Public Speaking since 2024 and forward:
-* A future perspective on ancillary Services and the Green Energy Transition
+
+<!-- * A future perspective on ancillary Services and the Green Energy Transition
   * Location: Comet Meetings Louise, Place Stéphanie 20, 1050 Brussels
   * Date: 2024-04-09
   * Occasion: Keynote for the European Energy Research Alliance's "Research Meets Policy Conference"
-  * Keywords: Renewable Energy, Green Energy Transition, Ancillary Services, Demand Response, Policy, Energy Research
-* Scaling Data Science and Big Data Technologies
+  * Keywords: Renewable Energy, Green Energy Transition, Ancillary Services, Demand Response, Policy, Energy Research -->
+* Open Source as a means to drive the Green Energy Transition
+  * Location: Hindsgavl Slot, Middelfart, Denmark
+  * Date: 2024-03-19
+  * Occasion: Community of Practice for Open Source in the Energy Sector
+  * Keywords: Renewable Energy, Green Energy Transition, Community of Practice, Open Source, Energy Sector
+<!-- * Scaling Data Science and Big Data Technologies
   * Location: Arhus University (AU)
   * Date: 2024-03-14
   * Occasion: Guest Lecture for Academics, Students, and Industry about Big Data and Data Science Technologies
-  * Keywords: Data Science, Big Data, Scalability, Data Management, Data Science Technologies, Data Science Education
+  * Keywords: Data Science, Big Data, Scalability, Data Management, Data Science Technologies, Data Science Education -->
 * The Data Center's Role in the Transition to Renewables
   * Location: Danish Technical University (DTU), Building 101, Anker Engelunds Vej 1, 2800 Kgs. Lyngby
   * Date: 2024-02-20
