@@ -174,11 +174,12 @@ For an up-to-date list please see [Google Scholar](https://scholar.google.dk/cit
 
 # Public Speaking since 2024 and forward:
 
-<!-- * A future perspective on ancillary Services and the Green Energy Transition
+* A future perspective on ancillary Services and the Green Energy Transition
   * Location: Comet Meetings Louise, Place Stéphanie 20, 1050 Brussels
   * Date: 2024-04-09
-  * Occasion: Keynote for the European Energy Research Alliance's "Research Meets Policy Conference"
-  * Keywords: Renewable Energy, Green Energy Transition, Ancillary Services, Demand Response, Policy, Energy Research -->
+  * Occasion: Speaker for the European Energy Research Alliance's "Research Meets Policy Conference"
+  * URL: [EERA - JP ESI 2nd "Research meets Policy" Conference](https://eera-esi.eu/event/4095:jp-esi-2nd-research-meets-policy-conference.html)
+  * Keywords: Renewable Energy, Green Energy Transition, Ancillary Services, Demand Response, Policy, Energy Research
 * Open Source as a means to drive the Green Energy Transition
   * Location: Hindsgavl Slot, Middelfart, Denmark
   * Date: 2024-03-19
